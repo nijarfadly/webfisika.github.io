@@ -1,0 +1,18 @@
+*{
+  text-align: center;
+}
+
+.jumbotron {
+  background-color: #36393f;
+  padding: top 2rem;
+}
+
+body {
+  min-height: 3 000px;
+}
+
+#Project {
+  background-color: #36393f;
+}
+
+

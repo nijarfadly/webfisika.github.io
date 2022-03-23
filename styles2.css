@@ -1,0 +1,24 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #ffffff;
+}
+
+body{
+    background-color: #36393f;
+}
+
+.pembahasan{
+    width: 600px;
+    height: auto;
+    border: 1;
+    background-color: #7289DA;
+    border-radius: 10px;
+    position: relative;
+    font-size: inherit;
+    font-size: 17px;
+    position: relative;
+}
+
+.pembahasan, p{
+    margin-left: 20px;
+}
